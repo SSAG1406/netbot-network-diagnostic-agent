@@ -31,3 +31,22 @@ NetBot is an intelligent, AI-driven network diagnostic assistant. Powered by loc
 2. Install [Ollama](https://ollama.com/) and pull the Llama3 model:
    ```bash
    ollama run llama3
+
+### Installations
+
+# Clone the repository
+git clone https://github.com/SSAG1406/NetBot---LLM-Powered-Network-Diagnostic-Agent.git
+
+# Navigate into the project directory
+cd NetBot---LLM-Powered-Network-Diagnostic-Agent
+
+# Install the required Python dependencies
+pip install Flask ollama
+
+### Usage
+python app.py
+
+### To run the CLI Agent
+python netbot_final.py
+
+
