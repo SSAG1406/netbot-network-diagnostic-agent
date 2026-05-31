@@ -1,6 +1,17 @@
-# NetBot 🌐🤖
+# NetBot — LLM-Powered Network Diagnostic Agent
 
-NetBot is an intelligent, AI-driven network diagnostic assistant. Powered by local LLMs (via Ollama), it translates natural language queries into automated network troubleshooting workflows. The agent autonomously selects the right networking tools, executes them, and translates the raw technical output into plain-English diagnoses with actionable fixes.
+A production-ready agentic AI system that translates natural language 
+network queries into autonomous multi-step diagnostic workflows using 
+a local LLM (Llama 3 via Ollama), a ReAct-style tool dispatcher, and 
+real OS-level network command execution.
+
+**Stack:** Python · Flask · Ollama (Llama 3) · ReAct reasoning · 
+Server-Sent Events · REST API  
+**Interfaces:** Web UI (real-time streaming) + CLI  
+**Tools dispatched:** PING · NSLOOKUP · TRACEROUTE · PORTSCAN · 
+HTTPCHECK · IFCONFIG
+
+> Built as an independent project alongside research at IIIT Hyderabad 
 
 ## 🚀 Key Features
 
