@@ -8,8 +8,8 @@ Built with LLaMA 3 (via Ollama) and a structured reasoning loop that prevents ha
 
 ## Demo
 
-> Add a screenshot or GIF of the web UI here after running `python app.py`  
-> `![NetBot web UI — agent streaming diagnostic steps in real time](screenshot.png)`
+<img width="1777" height="1271" alt="image" src="https://github.com/user-attachments/assets/14141760-18a1-42f5-8e62-78887bc52a77" />
+
 
 ---
 
