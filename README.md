@@ -144,7 +144,7 @@ then try switching your DNS to 8.8.8.8 or 1.1.1.1 in your network settings.
 
 ---
 
-## Author
+## Authors
 
 **Siva Sai Anirudh Gundu**  
 ML Research Intern, IIIT Hyderabad (LTRC) · ECE + AI/ML, VNRVJIET  
