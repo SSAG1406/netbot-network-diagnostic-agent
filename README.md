@@ -152,4 +152,8 @@ ML Research Intern, IIIT Hyderabad (LTRC) · ECE + AI/ML, VNRVJIET
 
 **Viswaja Kandimalla**  
 ECE + AI/ML, VNRVJIET  
-[linkedin.com/in/ssag](https://www.linkedin.com/in/viswaja-kandimalla/) · [github.com/SSAG1406](https://github.com/viswaja14)
+[linkedin.com/in/viswaja-kandimalla](https://www.linkedin.com/in/viswaja-kandimalla/) · [github.com/viswaja14](https://github.com/viswaja14)
+
+**Sudhanshu Sarugu**  
+ECE + AI/ML, VNRVJIET  
+[linkedin.com/in/sudhanshusarugu13](https://www.linkedin.com/in/sudhanshusarugu13/) · [github.com/sudhanshu-sarugu-13](https://github.com/sudhanshu-sarugu-13)
